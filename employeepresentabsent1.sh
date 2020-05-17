@@ -1,4 +1,4 @@
-#! /bin/bash -x
+#! /bin/bash -x 
 present=1
 absent=0
 a=$((RANDOM%2))
